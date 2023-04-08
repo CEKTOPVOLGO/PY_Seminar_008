@@ -1,0 +1,27 @@
+[
+  {
+    "first_name": "Петр",
+    "second_name": "Петров",
+    "contacts": "123"
+  },
+  {
+    "first_name": "Иван",
+    "second_name": "Иванов",
+    "contacts": "753"
+  },
+  {
+    "first_name": "Иван",
+    "second_name": "Петров",
+    "contacts": "123"
+  },
+  {
+    "first_name": "Василий",
+    "second_name": "Васильев",
+    "contacts": "321"
+  },
+  {
+    "first_name": "Дмитрий",
+    "second_name": "Долгорукий",
+    "contacts": "789"
+  }
+]
